@@ -14,9 +14,9 @@ let opt = {
     isUpdate: !!process.argv[4]
 };
 
-for (let key in data) {
-    let transaction = {};
-    if (opt.table === 'Item') {
+if (opt.table === 'Item') {
+    for (let key in data) {
+        let transaction = {};
         transaction = {
             name: data[key].name,
             image: data[key].img.toString(),
@@ -30,14 +30,22 @@ for (let key in data) {
             created_at: Date.now(),
             updated_at: Date.now()
         };
-    } else if (opt.table === 'Combination') {
 
-    } else {
-        process.exit(1);
+        models[opt.table]
+            .create(transaction)
+            .then()
+            .catch(err => console.error(err));
     }
-
-    models[opt.table]
-        .create(transaction)
-        .then()
-        .catch(err => console.error(err));
+} else if (opt.table === 'Item_style') {
+    data
+        .map(i => {
+            i.item_serial_no = i.styleNo;
+            i.image = i.thumb;
+            i.size = i.size.toString();
+            
+            models[opt.table]
+                .create(i)
+                .then()
+                .catch(err => console.error(err));
+        });
 }
