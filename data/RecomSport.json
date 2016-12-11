@@ -1,0 +1,163 @@
+var recomsportdations = {
+	'13001':{
+		id: '13001',
+		'category': 'sport',
+		items: ['28406034', '28851045'],
+		image: 'http://s1.lativ.com.tw/i/28406/28406_L_09_l.jpg',
+		artificial: false
+	},
+	
+		'13002':{
+		id: '13002',
+		'category': 'sport',
+		items: ['28403044'],
+		image: 'http://s3.lativ.com.tw/i/28403/28403_L_03_m.jpg',
+		artificial: false
+	},
+	
+		'13003':{
+		id: '13003',
+		'category': 'sport',
+		items: ['28406034', '25239063'],
+		image: 'http://s1.lativ.com.tw/i/28406/28406_L_03_m.jpg',
+		artificial: false
+	},
+	
+		'13004':{
+		id: '13004',
+		'category': 'sport',
+		items: ['28402034', '28404034'],
+		image: 'http://s3.lativ.com.tw/i/28404/28404_L_02_m.jpg',
+		artificial: false
+	},
+	
+		'13005':{
+		id: '13005',
+		'category': 'sport',
+		items: ['25202104', '28406034', '28851045'],
+		image: 'http://s1.lativ.com.tw/i/28406/28406_L_06_m.jpg',
+		artificial: false
+	},
+	
+	
+		'13006':{
+		id: '13006',
+		'category': 'sport',
+		items: ['25202104', '28405022'],
+		image: 'http://s3.lativ.com.tw/i/25202/25202_L_15_m.jpg',
+		artificial: false
+	},
+	
+		'13007':{
+		id: '13007',
+		'category': 'sport',
+		items: ['25202104', '28851045',],
+		image: 'http://s1.lativ.com.tw/i/28851/28851_L_09_m.jpg',
+		artificial: false
+	},
+	
+		'13008':{
+		id: '13008',
+		'category': 'sport',
+		items: ['25239063',],
+		image: 'http://s3.lativ.com.tw/i/25239/25239_L_02_m.jpg'
+		artificial: false
+	},
+	
+		'13009':{
+		id: '13009',
+		'category': 'sport',
+		items: ['25202104', '25240061'],
+		image: 'http://s1.lativ.com.tw/i/25240/25240_L_01_m.jpg',
+		artificial: false
+	},
+	
+		'13010':{
+		id: '13010',
+		'category': 'sport',
+		items: ['25202104', '25241014'],
+		image: 'http://s3.lativ.com.tw/i/25234/25234_L_02_m.jpg',
+		artificial: false
+	},
+	
+		'13011':{
+		id: '13011',
+		'category': 'sport',
+		items: ['28402034', '28404034'],
+		image: 'http://s1.lativ.com.tw/i/28404/28404_L_08_m.jpg',
+		artificial: false
+	},
+	
+		'13012':{
+		id: '13012',
+		'category': 'sport',
+		items: ['28402034', '28404034', '28406034],
+		image: 'http://s3.lativ.com.tw/i/28406/28406_L_10_l.jpg',
+		artificial: false
+	},
+	
+		'13013':{
+		id: '13013',
+		'category': 'sport',
+		items: ['25224024'],
+		image: 'http://s1.lativ.com.tw/i/25224/25224_L_03_m.jpg',
+		artificial: false
+	},
+	
+		'13014':{
+		id: '13014',
+		'category': 'sport',
+		items: ['25202104', '28851045'],
+		image: 'http://s3.lativ.com.tw/i/28851/28851_L_01_m.jpg',
+		artificial: false
+	},
+	
+		'13015':{
+		id: '13015',
+		'category': 'sport',
+		items: ['28419034'],
+		image: 'http://s1.lativ.com.tw/i/28419/28419_L_02_l.jpg',
+		artificial: false
+	},
+	
+		'13016':{
+		id: '13016',
+		'category': 'sport',
+		items: ['25220014', '28853034'],
+		image: 'http://s3.lativ.com.tw/i/28853/28853_L_07_m.jpg',
+		artificial: false
+	},
+	
+		'13017':{
+		id: '13017',
+		'category': 'sport',
+		items: ['25221025', '28419034'],
+		image: 'http://s1.lativ.com.tw/i/28419/28419_L_05_m.jpg',
+		artificial: false
+	},
+	
+		'13018':{
+		id: '13018',
+		'category': 'sport',
+		items: ['25221025', '28419034', '28853034],
+		image: 'http://s3.lativ.com.tw/i/28853/28853_L_02_m.jpg',
+		artificial: false
+	},
+	
+		'13019':{
+		id: '13019',
+		'category': 'sport',
+		items: ['25221025', '28853034'],
+		image: 'http://s1.lativ.com.tw/i/28853/28853_L_05_m.jpg',
+		artificial: false
+	},
+	
+		'13020':{
+		id: '13020',
+		'category': 'sport',
+		items: ['25221025', '28419034', '28853034'],
+		image: 'http://s3.lativ.com.tw/i/28419/28419_L_13_m.jpg',
+		artificial: false
+	},
+	
+}

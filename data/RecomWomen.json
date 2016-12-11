@@ -1,0 +1,162 @@
+var recommendations = {
+	'11001':{
+		id: '11001',
+		'category': 'women',
+		items: ['28123055', '28373205', '28465042', '28925031'],
+		image: 'http://s1.lativ.com.tw/i/28123/28123_L_01.jpg',
+		artificial: false
+	},
+	
+		'11002':{
+		id: '11002',
+		'category': 'women',
+		items: ['28022065', '28116045', '28587031'],
+		image: 'http://s3.lativ.com.tw/i/28116/28116_L_06.jpg',
+		artificial: false
+	},
+	
+		'11003':{
+		id: '11003',
+		'category': 'women',
+		items: ['28454064', '28519044', '28553065', '28565055'],
+		image: 'http://s1.lativ.com.tw/i/28565/28565_L_09.jpg',
+		artificial: false
+	},
+	
+		'11004':{
+		id: '11004',
+		'category': 'women',
+		items: ['28137045', '28352089', '28466024'],
+		image: 'http://s3.lativ.com.tw/i/28137/28137_L_01.jpg',
+		artificial: false
+	},
+	
+		'11005':{
+		id: '11005',
+		'category': 'women',
+		items: ['28122055', '28374065', '28925031'],
+		image: 'http://s1.lativ.com.tw/i/28122/28122_L_10.jpg',
+		artificial: false
+	},
+	
+		'11006':{
+		id: '11006',
+		'category': 'women',
+		items: ['28122055', '28373205', '28470044', '28554085'],
+		image: 'http://s3.lativ.com.tw/i/28122/28122_L_12.jpg',
+		artificial: false
+	},
+	
+		'11007':{
+		id: '11007',
+		'category': 'women',
+		items: ['28146054', '28529024', '28554085'],
+		image: 'http://s1.lativ.com.tw/i/28146/28146_L_02.jpg',
+		artificial: false
+	},
+	
+		'11008':{
+		id: '11008',
+		'category': 'women',
+		items: ['28117085', '28314045', '28316085', '28411034'],
+		image: 'http://s3.lativ.com.tw/i/28117/28117_L_05.jpg',
+		artificial: false
+	},
+	
+		'11009':{
+		id: '11009',
+		'category': 'women',
+		items: ['28451064', '28517024', '28563024'],
+		image: 'http://s1.lativ.com.tw/i/28563/28563_L_06.jpg',
+		artificial: false
+	},
+	
+		'11010':{
+		id: '11010',
+		'category': 'women',
+		items: ['28119125', '28232033', '28373205', '28450124', '28925031'],
+		image: 'http://s3.lativ.com.tw/i/28450/28450_L_11.jpg',
+		artificial: false
+	},
+	
+		'11011':{
+		id: '11011',
+		'category': 'women',
+		items: ['26329031', '28588033', '28926021'],
+		image: 'http://s1.lativ.com.tw/i/28118/28118_L_07_0.jpg',
+		artificial: false
+	},
+	
+		'11012':{
+		id: '11012',
+		'category': 'women',
+		items: ['28450124', '28454064', '28564054'],
+		image: 'http://s3.lativ.com.tw/i/28564/28564_L_09.jpg',
+		artificial: false
+	},
+	
+		'11013':{
+		id: '11013',
+		'category': 'women',
+		items: ['28313065', '28121055', '26345085'],
+		image: 'http://s1.lativ.com.tw/i/28121/28121_L_06.jpg',
+		artificial: false
+	},
+	
+		'11014':{
+		id: '11014',
+		'category': 'women',
+		items: ['28016125', '28320035', '28387083'],
+		image: 'http://s3.lativ.com.tw/i/28016/28016_L_15.jpg',
+		artificial: false
+	},
+	
+		'11015':{
+		id: '11015',
+		'category': 'women',
+		items: ['28469024', '28568034', '28584044'],
+		image: 'http://s1.lativ.com.tw/i/28568/28568_L_07.jpg',
+		artificial: false
+	},
+	
+		'11016':{
+		id: '11016',
+		'category': 'women',
+		items: ['28353036', '28450124', '28616034'],
+		image: 'http://s3.lativ.com.tw/i/28450/28450_L_02.jpg',
+		artificial: false
+	},
+	
+		'11017':{
+		id: '11017',
+		'category': 'women',
+		items: ['28120125', '28553065'],
+		image: 'http://s1.lativ.com.tw/i/28120/28120_L_08.jpg',
+		artificial: false
+	},
+	
+		'11018':{
+		id: '11018',
+		'category': 'women',
+		items: ['28119125', '28156085', '28354036', '28454064'],
+		image: 'http://s3.lativ.com.tw/i/28119/28119_L_20.jpg',
+		artificial: false
+	},
+	
+		'11019':{
+		id: '11019',
+		'category': 'women',
+		items: ['28053045', '28146054', '28353036'],
+		image: 'http://s1.lativ.com.tw/i/28146/28146_L_01.jpg',
+		artificial: false
+	},
+	
+		'11020':{
+		id: '11020',
+		'category': 'women',
+		items: ['28415084', '28564054', '28587034', '28925031'],
+		image: 'http://s3.lativ.com.tw/i/28564/28564_L_01.jpg',
+		artificial: false
+	},
+	
+}
