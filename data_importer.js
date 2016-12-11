@@ -48,4 +48,19 @@ if (opt.table === 'Item') {
                 .then()
                 .catch(err => console.error(err));
         });
+} else if (opt.table === 'Item_combination') {
+    data.map(combination => {
+        combination.items.map(i => {
+            let transaction = {
+                category: combination.category,
+                image: combination.image,
+                item_style_id: i
+            };
+
+            models[opt.table]
+                .create(transaction)
+                .then()
+                .catch(err => console.error(err));
+        });
+    });
 }

@@ -15,4 +15,5 @@ $ node data_importer.js <db_table> <data_file> <is_update?>
 ```bash
 node data_importer.js Item data/style.json 0
 node data_importer.js Item_style data/products.json 0
+node data_importer.js Item_combination data/recommend.json 0
 ```
