@@ -49,12 +49,13 @@ if (opt.table === 'Item') {
                 .catch(err => console.error(err));
         });
 } else if (opt.table === 'Item_combination') {
-    data.map(combination => {
+    data.map((combination, idx) => {
         combination.items.map(i => {
             let transaction = {
                 category: combination.category,
                 image: combination.image,
-                item_style_id: i
+                item_style_id: i,
+                combination_id: idx,
             };
 
             models[opt.table]
